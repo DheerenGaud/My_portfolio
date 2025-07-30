@@ -112,6 +112,25 @@
 }
 
 
+.bold {
+  font-size: medium;
+  font-weight: bold;
+}
+
+.skill-btn {
+  background-color: #2a2a2a;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 14px;
+  cursor: default;
+  transition: background-color 0.3s ease;
+}
+
+.skill-btn:hover {
+  background-color: #444;
+}
 
 
 
